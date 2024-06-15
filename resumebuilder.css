@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(29, 40, 40);
+    padding: 0%;
+    margin: 0;
+}
+#Download{
+    display: block;
+}
+
+#cv-templeat{
+    display: none;
+}
+#nameT2{
+    text-shadow: 2px 2px 4px  red;
+    font-style: italic;
+    margin-bottom: 86px;
+    font-weight:900;
+}
+#nameT{
+    font-family:fantasy;
+    font-weight: 700;
+    color: blue;
+}
+#adressT{
+    color: blueviolet;
+    font-weight: 400;
+    font-style: italic;
+}
+#Skills{
+    color:tomato;
+    
+    font-weight: 600; 
+}
+#imgtemplet{
+    border-radius: 50%;
+}
+
+.img{
+    border: 4 solid rgb(255, 239, 58);
+    width: 150px;
+    height: 100px;
+   border-radius: 50%;
+   align-items: center;
+   
+   
+}
+.background{
+    background-color:turquoise;
+    border-radius: 30%;
+    
+}
+#bgskills{
+   color: black;
+    font-weight: 600;
+    font-size: 4ch;
+
+
+    
+}
+#astyle{
+    background-color: aqua;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
+#objT{
+    color: rgb(43, 14, 173);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#AcademicT{
+    color: blue;
+    font-weight: 600;
+}
+#row1{
+    width:auto
+}
+#wrokeT{
+    color: rgb(45, 17, 186);
+    font-style: italic;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+}
